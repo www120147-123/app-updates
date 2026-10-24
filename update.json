@@ -1,7 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.2.4",
-  "releaseNotes": "常规维护版本，包含稳定性与兼容性调整。",
-  "downloadUrl": "https://github.com/www120147-123/app-updates/releases/download/v0.2.4/campus-next-0.2.4.apk",
-  "sha256": "00d9cf96330bd711d01d3010b8b2ab97a8c7f301b92a84ea94c0839d4a2bc2aa"
+  "versionCode": 30,
+  "versionName": "0.3.0",
+  "releaseNotes": "# Application release 0.3.0\r\n\r\n百团大战终于结束了。最近来来回回收拾东西，确实累得够呛，但也没有忘记继续优化南工拾光。\r\n\r\n根据大家的反馈，我重新检查了定时签到功能，并连续进行了一周的测试。目前，定时签到的后台执行、失败重试和结果通知已经基本稳定。请打开“易班签到”，按照应用里的“应用后台设置说明”完成设置：关闭“自动管理”，切换为“手动管理”，并开启“允许自启动”“允许关联启动”和“允许后台活动”，这样定时签到才能更可靠地在待机状态下执行。\r\n\r\n感谢每一位愿意反馈问题的用户大大。现在主要功能基本完善了，接下来还需要什么功能，或者想要什么样的主题？我这边也有点江郎才尽了，欢迎在“开发说明”界面联系作者。大家的建议我会认真看，并合理采纳。\r\n",
+  "downloadUrl": "https://github.com/www120147-123/app-updates/releases/download/v0.3.0/campus-next-0.3.0.apk",
+  "sha256": "a7235c3eda04677e1f71e939a81b88a1a937b00a82b285c444e4446021e38dbe",
+  "downloadMirrors": []
 }
