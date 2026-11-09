@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "0.3.2",
-  "releaseNotes": "抱歉各位，之前没有发现学校还有过程评价，现在已经补上了。\r\n\r\n大家可以前往“自动评教”页面，切换到“过程评价”填写并完成提交。\r\n\r\n感谢各位的支持，后续也会持续关注大家的反馈，不断修复和优化。\r\n",
-  "downloadUrl": "https://github.com/www120147-123/app-updates/releases/download/v0.3.2/campus-next-0.3.2.apk",
-  "sha256": "36d0458539d2dd77a141cf31a698523bbcbd0c53129ce5dc393ef8ac2a81d3e0",
+  "versionCode": 33,
+  "versionName": "0.3.3",
+  "releaseNotes": "修复了虚拟定位位置偏移的问题，并新增了可以使用地图修改虚拟定位位置的功能。",
+  "downloadUrl": "https://github.com/www120147-123/app-updates/releases/download/v0.3.3/campus-next-0.3.3.apk",
+  "sha256": "cc6903541cc3f23d5ad1c4095074b841f2dbbbc68b1fb7260f3b8412ba3b5541",
   "downloadMirrors": []
 }
