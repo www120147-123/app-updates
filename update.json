@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.3.3",
-  "releaseNotes": "修复了虚拟定位位置偏移的问题，并新增了可以使用地图修改虚拟定位位置的功能。地图选点作为 Plan B 备用方案；由于底图刷新偶有不稳定，正常情况下可使用 Plan A。",
-  "downloadUrl": "https://github.com/www120147-123/app-updates/releases/download/v0.3.3/campus-next-0.3.3.apk",
-  "sha256": "cc6903541cc3f23d5ad1c4095074b841f2dbbbc68b1fb7260f3b8412ba3b5541",
+  "versionCode": 40,
+  "versionName": "0.4.0",
+  "releaseNotes": "0.4.0\n\n本次包含体验优化、使用引导完善和问题修复。\n\n完整版本说明与使用说明请在应用内查看。更新前请保留重要数据备份。\n",
+  "downloadUrl": "https://github.com/www120147-123/app-updates/releases/download/v0.4.0/campus-next-0.4.0.apk",
+  "sha256": "f8f0e088217a840efa72e79371521798d50baa07bfa95934722a16cf7493cce8",
   "downloadMirrors": []
 }
